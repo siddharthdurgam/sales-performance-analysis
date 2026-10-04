@@ -15,6 +15,14 @@ An end-to-end **E-Commerce Sales Performance Analysis** project built using **Py
 The project transforms raw e-commerce data into meaningful business insights through data cleaning, exploratory data analysis, KPI analysis, and interactive dashboard visualization.
 
 ---
+## ⭐ Project Highlights
+
+- Built an end-to-end sales analytics workflow using Python and Power BI.
+- Performed data cleaning, preprocessing, and exploratory data analysis.
+- Analyzed sales trends across products, customers, categories, and regions.
+- Developed business-focused KPIs to evaluate sales performance.
+- Created visual dashboards for executive-level reporting and decision-making.
+- Converted raw sales data into actionable business insights and recommendations.
 
 ## 🎯 Business Objectives
 
