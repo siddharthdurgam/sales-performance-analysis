@@ -1,58 +1,27 @@
 # 📊 Sales Performance Analysis
 
-## 👨‍💻 Author
+> **End-to-end e-commerce sales analytics project using Python and Power BI**
 
-**D. Siddharth Patel**
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-B.Tech – Computer Science & Engineering | Business Analyst | Data Analytics | Python | SQL
+## 🎯 Overview
 
----
+This project analyzes e-commerce sales data to uncover **revenue trends, product performance, customer behavior, regional performance, and business KPIs**.
 
-## 📌 Project Overview
+The workflow transforms raw data into decision-ready insights through data cleaning, exploratory analysis, KPI analysis, visualization, and Power BI reporting.
 
-An end-to-end **E-Commerce Sales Performance Analysis** project built using **Python and Power BI** to analyze sales performance, customer behavior, product categories, geographical performance, and monthly sales trends.
+## 💡 Business Questions
 
-The project transforms raw e-commerce data into meaningful business insights through data cleaning, exploratory data analysis, KPI analysis, and interactive dashboard visualization.
+- How are sales and revenue changing over time?
+- Which products and categories perform best?
+- Which regions contribute the most to sales?
+- What customer purchasing patterns can be identified?
+- Where are performance gaps and opportunities?
+- Which KPIs should management monitor?
 
----
-## ⭐ Project Highlights
-
-- Built an end-to-end sales analytics workflow using Python and Power BI.
-- Performed data cleaning, preprocessing, and exploratory data analysis.
-- Analyzed sales trends across products, customers, categories, and regions.
-- Developed business-focused KPIs to evaluate sales performance.
-- Created visual dashboards for executive-level reporting and decision-making.
-- Converted raw sales data into actionable business insights and recommendations.
-
-## 🎯 Business Objectives
-
-- Analyze monthly sales and revenue trends
-- Identify top-performing product categories
-- Analyze customer purchasing patterns
-- Identify high-performing geographical regions
-- Understand order and sales performance
-- Identify important business trends and performance gaps
-- Create actionable recommendations for business decision-making
-- Build an interactive Power BI dashboard for management reporting
-
----
-
-## 🛠️ Tools & Technologies
-
-| Technology | Purpose |
-|---|---|
-| Python | Data analysis and preprocessing |
-| Pandas | Data manipulation |
-| NumPy | Numerical analysis |
-| Matplotlib | Data visualization |
-| Seaborn | Statistical visualization |
-| Power BI | Interactive dashboard and reporting |
-| Jupyter Notebook | Analysis environment |
-| Git & GitHub | Version control |
-
----
-
-## 🔍 Project Workflow
+## 🔄 Analytics Workflow
 
 ```text
 Raw E-Commerce Data
@@ -63,10 +32,64 @@ Exploratory Data Analysis
         ↓
 Sales & Customer Analysis
         ↓
-KPI Analysis
+KPI Development
         ↓
 Business Insights
         ↓
 Power BI Dashboard
         ↓
-Business Recommendations
+Recommendations
+```
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| Python | Analysis & preprocessing |
+| Pandas | Data manipulation |
+| NumPy | Numerical analysis |
+| Matplotlib | Visualization |
+| Seaborn | Statistical visualization |
+| Power BI | Interactive dashboard & reporting |
+| Jupyter Notebook | Analysis environment |
+| Git & GitHub | Version control |
+
+## 📈 Key Analysis Areas
+
+**Sales:** monthly trends, revenue, orders and performance gaps  
+**Products:** category performance and top-performing products  
+**Customers:** purchasing behavior and contribution  
+**Geography:** regional performance comparison  
+**KPIs:** management-focused metrics and reporting  
+
+## 📁 Suggested Structure
+
+```text
+sales-performance-analysis/
+├── README.md
+├── notebooks/
+├── data/
+├── reports/
+└── power-bi/
+```
+
+> Dataset and dashboard assets should only be committed when they are safe to publish and contain no sensitive information.
+
+## 🚀 How to Explore
+
+1. Clone the repository.
+2. Open the analysis notebook.
+3. Install the required Python libraries.
+4. Load the project dataset.
+5. Run the cleaning and exploratory analysis workflow.
+6. Review the KPI and visualization outputs.
+7. Open the Power BI dashboard when the dashboard file is available.
+
+## 👨‍💻 Author
+
+**D. Siddharth Patel**  
+B.Tech — Computer Science & Engineering | Business Analyst | Data Analytics | Python | SQL
+
+[LinkedIn](https://www.linkedin.com/in/siddharth-durgam-878632263/) · [GitHub](https://github.com/siddharthdurgam)
+
+⭐ **If you find this project useful, consider starring the repository.**
