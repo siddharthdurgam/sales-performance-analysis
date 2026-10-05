@@ -2,6 +2,7 @@
 
 > **End-to-end e-commerce sales analytics project using Python and Power BI**
 
+![CI](https://github.com/siddharthdurgam/sales-performance-analysis/actions/workflows/validate.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -60,17 +61,18 @@ Recommendations
 **Products:** category performance and top-performing products  
 **Customers:** purchasing behavior and contribution  
 **Geography:** regional performance comparison  
-**KPIs:** management-focused metrics and reporting  
+**KPIs:** management-focused metrics and reporting
 
-## 📁 Suggested Structure
+## 📁 Repository Structure
 
 ```text
 sales-performance-analysis/
-├── README.md
+├── .github/workflows/validate.yml
 ├── notebooks/
-├── data/
-├── reports/
-└── power-bi/
+│   └── sales_data_analysis.ipynb
+├── images/
+├── requirements.txt
+└── README.md
 ```
 
 > Dataset and dashboard assets should only be committed when they are safe to publish and contain no sensitive information.
@@ -78,12 +80,11 @@ sales-performance-analysis/
 ## 🚀 How to Explore
 
 1. Clone the repository.
-2. Open the analysis notebook.
-3. Install the required Python libraries.
-4. Load the project dataset.
-5. Run the cleaning and exploratory analysis workflow.
-6. Review the KPI and visualization outputs.
-7. Open the Power BI dashboard when the dashboard file is available.
+2. Create a Python environment.
+3. Install the required libraries.
+4. Open `notebooks/sales_data_analysis.ipynb`.
+5. Run the cleaning, analysis, KPI and visualization workflow.
+6. Review the business insights and dashboard assets.
 
 ## 👨‍💻 Author
 
